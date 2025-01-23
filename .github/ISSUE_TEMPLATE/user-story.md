@@ -1,6 +1,6 @@
 ---
 name: User story
-about: This template is used for creating user stories
+about: Must allow multiple counters
 title: ''
 labels: ''
 assignees: ''
